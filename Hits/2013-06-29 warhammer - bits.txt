@@ -1,0 +1,8 @@
+Price: 60.0 Auction: http://www.ebay.com/itm/warhammer-bin-bits-dark-elf-corsairs-sword-and-crossbow-arms-/350794540914 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20
+Price: 18.0 Auction: http://www.ebay.com/itm/warhammer-bin-bits-dark-elf-black-dragon-dreadlord-heads-/330908429497 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20
+Price: 48.0 Auction: http://www.ebay.com/itm/warhammer-bin-bits-dark-elf-black-dragon-dreadlord-body/350794540923 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20
+Price: 18.0 Auction: http://www.ebay.com/itm/warhammer-bin-bits-dark-elf-black-dragon-dreadlord-heads-/330908429497 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20
+Price: 45.0 Auction: http://www.ebay.com/itm/warhammer-bin-bits-dark-elf-black-dragon-sorceress-heads-/330908429590 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20
+Price: 45.0 Auction: http://www.ebay.com/itm/warhammer-bin-bits-dark-elf-black-dragon-sorceress-heads-/330908429590 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20
+Price: 18.0 Auction: http://www.ebay.com/itm/warhammer-bin-bits-dark-elf-black-dragon-dreadlord-heads-/330908429497 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20
+Price: 60.0 Auction: http://www.ebay.com/itm/warhammer-bin-bits-dark-elf-corsairs-sword-and-crossbow-arms-/350794540914 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20

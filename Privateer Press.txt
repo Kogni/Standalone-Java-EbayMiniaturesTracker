@@ -1,0 +1,49 @@
+privateer press##privateer, -annyssa, -everblight, -book, -carnivean, -morraig, -marker, -magazine, -khador, -orboros, -cryx, -cycnar, -menoth, -trollblood, -skorne, -archidon, -primal, -p3, -monsterpocalypse, -dice, -token, -proteus, -palette, -coming soon#200
+privateer press#exemplar officer & standard bearer#privateer, exemplar, officer, standard, menoth, #200
+privateer press#angelius##200
+_privateer press#annyssa ryvaal#annyssa, ryvaal, #200
+privateer press#archidon#skorne, archidon, #100
+privateer press#blackfrost shard##200
+privateer press#carnivean#carnivean, warbeast, everblight, #200
+privateer press#cavalry#everblight, cavalry, #200
+privateer press#circle of orboros#privateer, circle, orboros, -tharn, -shadowhorn#200
+privateer press#deathwalker#everblight, deathwalker, #200
+privateer press#dragonspawn#everblight, dragonspawn, -proteus#200
+_privateer press#epic lylyth, shadow of everblight#epic, lylyth, shadow, everblight, #200
+privateer press#everblight#-seraph, everblight, -dice, -harrier#200
+privateer press#errant seneschal#privateer, errant, seneschal, menoth, #100
+privateer press#exemplar#privateer, exemplar#100
+_privateer press#feora#privateer, feora, flame, menoth, #200
+privateer press#ferox#ferox, #200
+privateer press#gnarlhorn satyr#satyr, gnarlhorn, #100
+privateer press#harrier#harrie, everblight, warbeast, #200
+privateer press#high paladin vilmon#privateer, paladin, vilmon, menoth, #200
+privateer press#horthol#horthol, trollbloods, long rider, champion, privateer, #100
+privateer press#kaya cazadora lunar & laris#kaya, laris, circle, orboros, #200
+privateer press#kaya the moonhunter#kaya, moonhunter, privateer, circle, orboros, #200
+privateer press#menoth#menoth, protectorate, #200
+privateer press#nephilim#nephilim, privateer, everblight, #200
+privateer press#nyss##200
+privateer press#paladin order of the wall#privateer, paladin, wall, order, menoth, #200
+privateer press#praetorian##200
+_privateer press#proteus##100
+privateer press#pureblood##100
+privateer press#raek#raek, warbeast, everblight, #100
+privateer press#raptors cavalry#raptor, cavalry, everblight, #200
+privateer press#ravagore#warbeast, everblight, #150
+privateer press#seraph#everblight, seraph, #200
+privateer press#shadowhorn satyr#satyr, privateer, circle, orboros, shadowhorn, #100
+privateer press#skorne#-token, -praetorian, -ferox200
+privateer press#slaughterhousers#minions, privateer, #200
+privateer press#strider#everblight, hordes, -deathwalker, #200
+privateer press#thagrosh the messiah#thagrosh, messiah, everblight, #200
+privateer press#tharn#wolf, rider#60
+privateer press#typhon#everblight, typhon, #200
+privateer press#uhlan#privateer, khador, #100
+privateer press#vilmon#vilmon, warmachine, #100
+privateer press#war dog#war, dog, khador, #100
+privateer press#war wolf##100
+privateer press#blaize#blaizecygnar, #100
+privateer press#skinwalker##200
+privateer press#morraig#wolf, lord, morraig, privateer, circle, orboros, -tharn, -pureblood#100
+privateer press#Vladimir Tzepesci##100

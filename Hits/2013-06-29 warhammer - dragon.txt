@@ -1,0 +1,7 @@
+Price: 18.0 Auction: http://www.ebay.com/itm/warhammer-bin-bits-dark-elf-black-dragon-dreadlord-heads-/330908429497 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20
+Price: 48.0 Auction: http://www.ebay.com/itm/warhammer-bin-bits-dark-elf-black-dragon-dreadlord-body/350794540923 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20
+Price: 18.0 Auction: http://www.ebay.com/itm/warhammer-bin-bits-dark-elf-black-dragon-dreadlord-heads-/330908429497 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20
+Price: 45.0 Auction: http://www.ebay.com/itm/warhammer-bin-bits-dark-elf-black-dragon-sorceress-heads-/330908429590 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20
+Price: 45.0 Auction: http://www.ebay.com/itm/warhammer-bin-bits-dark-elf-black-dragon-sorceress-heads-/330908429590 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20
+Price: 18.0 Auction: http://www.ebay.com/itm/warhammer-bin-bits-dark-elf-black-dragon-dreadlord-heads-/330908429497 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20
+Price: 66.0 Auction: http://www.ebay.com/itm/ral-partha-adventurers-11-006-dwarf-fighter-with-warhammer-ad-d-tsr-miniature-2/161041298931 Hit%=80 MaxScore=150 IDmatch=100 NumberOfDetails=2 DetaljScore=20

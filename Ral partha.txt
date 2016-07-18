@@ -1,0 +1,263 @@
+ral parth##-knight, -dragon, -unicorn, -terrain, -scenery, -prehistoric animal, -dragon, -battletech, -guthrie, -balrog, -mage, -warrior, -lord, -minotaur, -armor, -amazon, -shadowrun, -centaur, -female, -prehistoric, -rogon, -01-047, -01-250, -01-712, -02-309, -11-441, -03-048, -10-415, -11-462, -01-143, -02-908, -11-423, -02-964, -02-504, -10-450, -01-405, 
+
+_ral parth#01-003#balrog, #100
+ral parth#01-007#serpent, couatl, #100
+_ral parth#01-010#troll, #100
+ral parth#01-017#pegasus, rider, pegasus and rider, #100
+_ral parth#01-021#princess, #100
+ral parth#01-025##100
+ral parth#01-032#savage, sisters, #100
+_ral parth#01-042#paladin, #100
+ral parth#01-047#armored, centaur, #100
+ral parth#01-047#dragon, #100
+ral parth#01-054#knight, warhorse, paladin, questing, cavalier, -severed, #100
+ral parth#01-054#severed, head, -knight, -paladin, #100
+_ral parth#01-058#bard, #100
+_ral parth#01-066#necromancer, #100
+_ral parth#01-070#dwarf, #100
+ral parth#01-071#unicorn, princess#40
+_ral parth#01-079##100
+ral parth#01-080#lizard, rider, #100
+ral parth#01-081#balrog, #100
+ral parth#01-089##100
+ral parth#01-091#elf, hero, #100
+ral parth#01-093#anti, paladin, anti-paladin, #40
+ral parth#01-094#golden, dragon, #100
+ral parth#01-112#paladin,#100 
+_ral parth#01-120#chaos, warrior, #100
+_ral parth#01-124#warrior, #100
+ral parth#01-128#camel, #100
+ral parth#01-130#guardian, knight, #100
+ral parth#01-132#female, fighters,#100
+ral parth#01-134##100
+ral parth#01-138# black, dragon, #100
+ral parth#01-140#undead, dragon, #100
+ral parth#01-143#malkotian, spearman, #100
+ral parth#01-147#boarak, death, rider, chaos, #100
+ral parth#01-151#dragon,#100
+ral parth#01-155#griffon,#100 
+_ral parth#01-160#orc, chieftain, #100
+ral parth#01-180#winged,lion,#100
+ral parth#01-209#draconum, mortis, #100
+ral parth#01-211#headless, horseman, #100
+ral parth#01-215#undead, minotaur,#100
+ral parth#01-216#centaur, #100
+ral parth#01-243#fast, claw, #100
+_ral parth#01-250#sea, horror, #100
+_ral parth#01-405#witch, king, chaos, #100
+ral parth#01-408##100
+ral parth#01-415#death, knight, foot, mtd,#100
+ral parth#01-712#raptor, mistress, #100
+ral parth#01-753#raptors, #100
+
+ral parth#02-005##100
+ral parth#02-013a#elf, lancer, #100
+_ral parth#02-026#halfling, schythe, #100
+_ral parth#02-031#dwarf, axe, #100
+ral parth#02-033#dwarves, #100
+_ral parth#02-036#dwarf, #100
+_ral parth#02-038#dwarf, crossbow, #100
+_ral parth#02-065#goblin, #100
+ral parth#02-098#centaur, #100
+ral parth#02-106#chaos, warrior, cavalry, knight#40
+ral parth#02-110#legion, justice, command, #100
+ral parth#02-111#legion, justice, knights, #100
+ral parth#02-216#horse, lords, heavy, lancer, #100
+ral parth#02-216a#horse, lords, lancer, #50
+ral parth#02-217#amazon, mounted, archer, #100
+ral parth#02-221#horse, lords, war, priestess, #100
+ral parth#02-222a#mounted, war, wizard, #100
+ral parth#02-259b #02-259b, female, minotaur, #100
+ral parth#02-259b#female, minotaur, #100
+ral parth#02-309#anti, hero, #100
+_ral parth#02-337#rogue, female, #100
+ral parth#02-504#tribal, shamen, -female, -warrior, #30
+ral parth#02-504#female, barbarian, -shamen, #30
+ral parth#02-504#tribal, warrior, -shamen, -female, #30
+ral parth#02-504#female, barbarian, hero, #30
+ral parth#02-702#dwarf, warrior, #100
+ral parth#02-721#elf, knight, cavalry, #100
+ral parth#02-761#amazon, warrior, sword, female, barbarian, fighters, -03-120, -02-762, -02-764, #100
+ral parth#02-762#amazon, elite, knight, sword, female, barbarian, warrior, -03-120, -02-764, -02-761, #100
+ral parth#02-763#amazon, female, archers, -03-120#40
+ral parth#02-764#amazon, horse, archer, mounted, female, barbarian, warrior, -03-120, -02-761, -02-762, #40
+ral parth#02-800#chaos, mounted, knight, #100
+ral parth#02-908#manticore, #100
+_ral parth#02-916##100
+ral parth#02-954#winged, demon, lord, #100
+ral parth#02-964#hippogriff#60
+
+ral parth#03-035#helios, anti, paladin, #100
+_ral parth#03-067#goblin, club, #100
+_ral parth#03-114#mage#0
+ral parth#03-119#female, #100
+ral parth#03-120#gloranthia, amazon, guard, female, barbarian, warrior, hero, -knight, -horse, -02-761, #30
+_ral parth#03-159#female, halfling, #100
+_ral parth#03-161#female, gladiator, #100
+ral parth#03-172#royal, elf, champion, warrior#100
+ral parth#03-202##100
+_ral parth#03-711#scuzbek#0
+
+_ral parth#04-306##100
+
+ral parth#06-019#dark, tomb, crpyt, #100
+
+_ral parth#07-011#valania, female, sorceress, staff, #100
+
+_ral parth#10-212#rogon, balrog, dragon, #30
+ral parth#10-363#panther, dragon, #100
+ral parth#10-371##100
+ral parth#10-378 #10-378, giant, wyvern, warlord, rider, #100
+ral parth#10-378#giant, wyvern, warlord, rider, #100
+ral parth#10-401#african, animals, #100
+ral parth#10-401c#cheetah, #100
+ral parth#10-401k#lion, #100
+ral parth#10-412#balrog, #100
+ral parth#10-419#armored, dragon, #100
+ral parth#10-450#antagonists, #100
+ral parth#10-463#tchar, #100
+ral parth#10-500#krynn, #100
+_ral parth#10-510#female, thief#0
+
+_ral parth#11-002#cleric, #100
+ral parth#11-003##100
+_ral parth#11-010#paladin, #100
+_ral parth#11-015#female, savage, #100
+ral parth#11-064#lord, soth, #100
+ral parth#11-068#elf, warrior, #100
+ral parth#11-108#great, white, stag, #100
+ral parth#11-402#couatl, dragon, serpent, #100
+ral parth#11-413#displacer, beast, #100
+ral parth#11-414#chimera, #100
+_ral parth#11-421#kobold, #100
+ral parth#11-423#pegasus, #100
+_ral parth#11-426#fire, elemental, #100
+ral parth#11-428#krynn, #100
+ral parth#11-441#hippogriff, #100
+ral parth#11-449#wyvern, dragonkin, #100
+ral parth#11-462#lamia, #100
+ral parth#11-467#minotaur, #100
+ral parth#11-495#kirin, #100
+ral parth#11-519##100
+ral parth#11-577##100
+ral parth#11-644#armanites, #100
+ral parth#11-656##100
+ral parth#11-751#lamia, #100
+ral parth#11-757#ghuralli, #100
+ral parth#11-850#cavalry, #100
+
+_ral parth#12-011#orc, #100
+
+_ral parth#13-003#troll, #100
+_ral parth#13-024#hunchback, #100
+
+ral parth#20-501##100
+_ral parth#20-504#metahuman#0
+_ral parth#20-505##100
+_ral parth#20-506#mage, #100
+ral parth#20-513#angels of death#60
+_ral parth#20-550#assassins#40
+_ral parth#20-551##60
+ral parth#20-560##100
+ral parth#20-569##100
+ral parth#20-585##100
+ral parth#20-589#lofwyr, dragon, #100
+ral parth#20-590#lord, torgo, #100
+
+ral parth#31-024#bear, #100
+ral parth#31-030#huntress, hunter, dragon, #100
+
+_ral parth#53-746#ninja, #100
+
+_ral parth#61-102#roth, #100
+
+_ral parth#91-408#witch, hunter#100
+_ral parth#91-423#druid, shaman#100
+
+_ral parth#96-003#priest, #100
+_ral parth#96-004#elf, #100
+
+_ral parth##98-006, dwarf, -maiden, #100
+ral parth##98-006, maiden, -dwarf, #100
+_ral parth#98-010#sorceress, #100
+_ral parth#98-015##100
+
+_ral parth#rp-012#centaur, sword#0
+ral parth#025#-ds-025, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+_ral parth#ds-025#-01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,0
+ral parth#044#-01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#050#lions, -096, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#054#-01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#079#rearing, pegasus, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+_ral parth#df-084#female, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#30
+ral parth#086#sabertooth, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#089#, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#092#centaur, knight, armored, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#094#female, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#096#evil, dragon, wyrm, drake, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#105#hippogriff, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,-spearman, -knight#50
+ral parth#112#-01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+_ral parth#123#-01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#50
+ral parth#146#-01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#162#-01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#199#armored, cat, mount, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#40
+ral parth#219#cockatrice, -spearman, -knight, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#50
+ral parth#223#hippogriff, -knight, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#50
+ral parth#232#centaur, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#247#-warmachine, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#344#female, beastmaster, warrior, sword, spear, ranger, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#351#-01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#353#battle, queen, sword, female, warrior, ranger, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#358#phorhusracos, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+_ral parth#396#captive, necromancer, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#15502a#thyarkhash, gladiator, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#17022#unicorn, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#18008#alanfanian, light, cavalry, woman, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+ral parth#18023#arbalettieri, horas, legion, mounted, -01 , -02 , -03 , -04 , -11 , -20 , -91 , -96 , -98 ,#100
+
+ral parth#amazon#-02-761, -02-762, -02-763, -02-764, -03-120, -02-217, -11-015, #100
+ral parth#animals#-03-161, -20-505, -03-159, -03-172, -03-120, -096, -91-423, -91-408, -04-306, #100
+ral parth#aramanite##100
+ral parth#balrog#-dragon, -rogon, -01-081, -10-412, #100
+ral parth#cavalry#-11-850, -03-711, -scuzbek, -91-423, ral parth, , cavalry, #100
+ral parth#centaur#-01-216, -01-047, -armanite, -02-098, -232, -044, -rp-012#100
+ral parth#chaos#-imperium, -247, -balrog, -01-405, -02-216, #100
+ral parth#chaos imperium##100
+ral parth#council#-11-577, #100
+ral parth#cyborg dragon##100
+ral parth#desert dragon##100
+ral parth#draconian##100
+ral parth#dragon#-balrog, -01-138, -goblin, -10-371, -krynn, -cyborg, -great, -desert, -panther, -undead, -mountain, -vulture, -street, -halfling, -tchar, -draconian, -draconum, -wyvern, -foot, -graveyard, -cavalry, -axe, -human, -dwarf, -rogue, thief, -dragonlance, -dragonfl, -01-094, -11-402, -01-151, -minotaur, -10-419, -162, -096, -10-450, -01-047, -11-414, -20-585, -dragonewt, -10-510#100
+ral parth#dragonlance#-11-428, dragonlance, ral parth, #100
+ral parth#elmore##100
+ral parth#female#ral parth, female, -centaur, -01-332, -#02-761, -cable, -adapter, -54mm, -02-763, -02-764, -03-120, -03-119, -02-762, -20-560, -01-032, -11-519, -10-450, -10-401, -146, -02-504, -20-569, -02-005, -20-505, -11-003, -20-585, -20-506, -02-761, -11-656, -01-025, -123, -094, -03-161, -03-159, -084, -11-015, -rp-396, -20-550, -rp-018, -20-513, -df-084, -02-504, -20-510, -02-504#100
+ral parth#great dragon##100
+ral parth#infernal elf serpent rider#infernal, serpent, rider, elf, #100
+ral parth#kirin#-11-495, #100
+ral parth#knight#ral parth, horse, mounted, -foot, -centaur, -female, ral parth, -02-762, -02-764, -02-800, -01-250, -01-130, -02-216, -01-054, -10-378, -01-243, -02-106, -03-035, -10-419, -02-111, -female#100
+ral parth#legion#-02-111, #100
+ral parth#lord#ral parth, lord, -minotaur, -02-954, -10-378, -10-412, -02-216, -11-850, -balrog, -11-757, -ghuralli, -torgo, -20-590, -soth, -11-064, -03-114#100
+ral parth#mage#ral parth, mage, -mage knight, -mageknight, -20-569, -20-505, -20-506, -20-551, -396, -03-114#100
+ral parth#minotaur#-01-215, -11-467, #100
+ral parth#mountain dragon##100
+ral parth#mounted knight##100
+ral parth#panther dragon#-10-363, #100
+ral parth#pegasus#-11-423, -10-450, #100
+ral parth#personalities#ral parth, personalities, -centaur, -02-954, -01-143, #100
+ral parth#phorhusracos##100
+ral parth#prehistoric animal#prehistoric, animal, ral parth, -351, #100
+ral parth#principate#-91-408, -91-423, #100
+ral parth#royal elf#-03-172, ral parth, royal elf, #100
+ral parth#royal elves wyrm rider#royal, elves, wyrm, rider, #100
+_Ral parth#Scorpionman##50
+ral parth#sfg-201 locke male wolf shifter#201, locke, shifter, #100
+ral parth#shadowrun#-centaur, -20-589, -089, -112, 20-551, -20-501, -025, -054, -20-569, -20-505, -20-560, -20-506, -torgo, -20-504, -20-550#100
+ral parth#terrain#scenery, ral parth, terrain, -06-019, #100
+ral parth#thane#ral partha, thande, -91-423,#100
+ral parth#undead dragon#-01-140, #100
+ral parth#unicorn#-rp-018, -01-071#100
+ral parth#vulture dragon##100
+ral parth#war dragon##100
+ral parth#warrior on winged horse#warrior, winged, horse, #100
+ral parth#warrior#ral parth, warrior, -female, -centaur, -minotaur, -03-035, -03-036 -01-243, -01-209, -11-068, -02-702, -123, -04-306, -01-243, -03-202, -02-033, -11-015, -01-093, -91-423, #100
+ral parth#wyvern#-10-378, #100

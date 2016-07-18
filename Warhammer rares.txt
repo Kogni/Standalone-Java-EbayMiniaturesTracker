@@ -1,0 +1,34 @@
+#morgiana le fay enchantress#bretton, morgiana, le fay,#100
+#repanse de lyonesse#bretton, repanse, lyonesse, #100
+#marauder#dark elf, #100
+citadel#helwud#-bit, -oop, #100
+warhammer#archaon mounted#archaon, everchosen, -foot, -bit, -oop, #100
+warhammer#balrog#-ral partha, -card, balrog, -bit, -oop, #100
+warhammer#beastlord#-bit, #100
+warhammer#brettonian hero on pegasus#gw, brettonian hero, pegasus, -bit, -oop, #100
+warhammer#brettonian pegasus knight#brettonian, pegasus, knight, -bit, -oop, #100
+warhammer#carstein#gw, carstein, -bit, -oop, -retribution, #100
+warhammer#centigor#-bit, #100
+warhammer#chaos lord on daemonic steed#chaos, lord, daemonic, steed, -bit, -oop, #100
+warhammer#chaos lord on manticore#chaos lord, manticore, -bit, -oop, #100
+warhammer#chimera#gw, -card, -case, -ig, chimera, -imperial, -bit, -oop, #100
+warhammer#cocatrice#gw, cocatrice, -bit, -oop, #100
+warhammer#daemon prince#daemon, prince, chaos, demon, -bit, -oop, #100
+warhammer#dark elf beastmaster on manticore#dark elf, beastmaster, manticore, -bit, -oop, #100
+warhammer#dark elf dreadlord on black dragon#dark elf, black dragon, -bit, -oop, #100
+warhammer#dark elf hero on manticore#dark elf, hero, manticore, -bit, -oop, #100
+warhammer#dark elf supreme sorceress cold one#dark elf, supreme sorceress, cold one, -bit, -oop, #100
+warhammer#elector count marius leitdorf#elector, count, marius, leitdorf, -bit, -oop, #100
+warhammer#high elf lord on dragon#high, elf, lord, dragon, -bit, -oop, #100
+warhammer#tyrion#tyrion, -bit, -oop, #100
+warhammer#kroq-gar#kroq, gar, -bit, -oop, #100
+warhammer#kurt helborg#kurt, helborg, -bit, -oop, #100
+warhammer#liquid green stuff#liquid, green stuff, citadel, -bit, -oop, #100
+warhammer#mouth of sauron#lotr, -bit, -oop, #100
+warhammer#red duke#warhammer, red, duke, -bit, -oop, #100
+warhammer#steed#-oop, -bit, #100
+warhammer#the green knight#green, knight, -bit, -oop, #100
+warhammer#thyrus gormann#-bit, -oop, #100
+warhammer#war rider#lotr, -bit, -oop, #100
+warhammer#winged nazgul#warhammer, lotr, -bit, -oop, #100
+warhammer#ludwig schwarzhelm#ludwig, schwarzhelm, -forgeworld, -forge world, -bit, -oop, #100

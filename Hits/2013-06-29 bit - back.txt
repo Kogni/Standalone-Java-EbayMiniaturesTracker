@@ -1,0 +1,2 @@
+Price: 18.0 Auction: http://www.ebay.com/itm/hordes-bits-legion-of-everblight-heavy-dragonspawn-ravagore-talon-arms-/330945875659 Hit%=66 MaxScore=150 IDmatch=100 NumberOfDetails=1 DetaljScore=0
+Price: 24.0 Auction: http://www.ebay.com/itm/warmachine-grind-bits-khador-runner-light-warjack-/360686240581 Hit%=66 MaxScore=150 IDmatch=100 NumberOfDetails=1 DetaljScore=0
